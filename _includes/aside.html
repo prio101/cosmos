@@ -1,0 +1,31 @@
+
+        <aside class="left-off-canvas-menu">
+            <form class="innersearch">
+                <div class="row">
+                    <div class="large-12 columns">
+                        <div class="row collapse prefix-round postfix-round">
+                            <div class="small-9 columns">
+                                <input type="text" placeholder="documents">
+                            </div>
+                            <div class="small-3 columns"><a href="#" class="button postfix">Go</a></div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <ul class="off-canvas-list typo">
+                <label for="pages">Pages</label>
+                {% for my_page in site.pages %}
+
+                    {% if my_page.title%}
+
+                        <li>
+                            <a href="{{ my_page.url | prepend:url}}" class="hvr-bounce-right"> {{my_page.title}} </a>
+                        </li>
+
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
+
+        </aside>
+

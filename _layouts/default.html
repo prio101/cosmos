@@ -5,11 +5,20 @@
 
   <body>
 
-    {% include header.html %}
+    {% include navbar.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+    <div data-offcanvas="" class="off-canvas-wrap">
+      <div class="inner-wrap">
+        {% include aside.html %}
+        <section data-equalizer="" class="row docbody">
+          <div data-equalizer-watch class="large-12 columns panel">
+            <h1 class="header">{{ page.title }}</h1>
+              {{ content }}
+          </div>
+        </section>
+        <section class="clearfix-section">
+
+        </section>
       </div>
     </div>
 
