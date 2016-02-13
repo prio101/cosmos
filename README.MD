@@ -1,16 +1,16 @@
-# [Cosmos]()
+# [Cosmos](#)
 **Full Featured Documentation creator based on [Jekyll](jekyllrb.com) And The power of [Markdown](https://daringfireball.net/projects/markdown/)**
-
+![logo](logo-cosmos.png)
 
 ## Table Of Contents
 
-* [About / History of a Space Time ](##about)
-* [Tools](##tools)
-* [Contribute](##contribute)
-* [Template](##template)
-* [License](##license)
+* [About / History of a Space Time ](#about)
+* [Tools](#tools)
+* [Contribute](#contribute)
+* [Template](#template)
+* [License](#license)
 
-## [About](##about)
+## [About](#about)
 
 [Cosmos](https://github.com/prio101/cosmos) is a initiative to make life little easier and oh yes , a try to *make the world a better place* (Joke Apart) by making the Documentation more easier .
 
@@ -19,7 +19,7 @@ pretty little set up time and proven to go with your task in hand .
 
 Hope that , it can be helpful for people who cares about easy work flow.
 
-## [Tools](##tools)
+## [Tools](#tools)
 
 * [Jekyll Gem]()
 * [Liquid Template Engine]()
@@ -27,18 +27,18 @@ Hope that , it can be helpful for people who cares about easy work flow.
 * [Pre-installed theme named - documentation](https://github.com/skarif2/documentation)
 
 
-## [Contribute](##contribute)
+## [Contribute](#contribute)
 
-Contributing is easy . You are free to make changes on base , can show us better way to accomplish task . Or can give us your a link of a new and awesome new template links in [Template](##template) section.
+Contributing is easy . You are free to make changes on base , can show us better way to accomplish task . Or can give us your a link of a new and awesome new template links in [Template](#template) section.
 
 
-## [Template](##template)
+## [Template](#template)
 List of some templates
 
 * [Documentation](https://github.com/skarif2/documentation)
 
 
-## [License](##license)
+## [License](#license)
 *The MIT License (MIT)*
 **Copyright (c) 2016**
 
